@@ -5,7 +5,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int num,count=0,temp;
+   long int num,count=0,temp;
     cout<< "Enter the Number , To know how many digits in it ";
     cin>>num;
 
